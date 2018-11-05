@@ -1,0 +1,8 @@
+[package]
+name = "Socket"
+version = "0.1.0"
+authors = ["Benjamin DROUARD <benjamin.drouard@epitech.eu>"]
+
+[dependencies]
+tokio = "0.1"
+tokio-core = "0.1"
